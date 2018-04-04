@@ -1,0 +1,1 @@
+<a href="index.php?cc=Admin&cf=unbanComm&komentarzeID=<?php print_r($data['komentarzeID']);?>&idNews=<?php echo $_GET['idNews'];?>&stronaWejscia=<?php echo $_GET['stronaWejscia'];?>" class="btn btn-default" style="margin-right:10px;">Odbanuj</a>

@@ -1,0 +1,1 @@
+<a href="index.php?cc=newsController&cf=getEditNews&stronaWejscia=<?php echo $_GET['stronaWejscia']; ?>&idNews=<?php echo $_GET['idNews']; ?>"><button class="btn btn-primary">Edytuj</button></a>

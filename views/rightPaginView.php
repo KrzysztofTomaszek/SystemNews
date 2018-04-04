@@ -1,0 +1,2 @@
+<a href="index.php?cc=Main&cf=strona&page=<?php echo $data['strona']+1;?>"><button class="btn btn-default"><?php echo $data['strona']+1;?></button></a>
+<a href="index.php?cc=Main&cf=strona&page=<?php echo $data['strona']+1;?>"><button class="btn btn-default">>></button></a>
